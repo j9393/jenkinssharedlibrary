@@ -3,7 +3,7 @@ package com.cleverbuilder
 
 
 class Example {
-   static void sum(int a,int b) {
+   def sum(int a,int b) {
       int c = a+b;
       println(c);
    }  
