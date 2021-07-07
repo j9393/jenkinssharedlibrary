@@ -2,7 +2,7 @@
 package com.cleverbuilder
 
 
-class Example {
+class Sampletestclass {
    def sum(int a,int b) {
       int c = a+b;
       println(c);
